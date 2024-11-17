@@ -1,0 +1,61 @@
+First Name,Last Name,Grade,Percentage,Course Code,Course Name
+John,Doe,A,93.0,CSE 110,Intro to Programming
+Alice,Smith,B,85.0,CSE 110,Intro to Programming
+Robert,Johnson,B+,88.0,CSE 110,Intro to Programming
+Mary,Brown,A-,90.0,CSE 110,Intro to Programming
+Michael,Jones,B+,88.0,CSE 110,Intro to Programming
+Emily,Garcia,A-,92.0,CSE 110,Intro to Programming
+Christopher,Davis,C+,77.0,CSE 110,Intro to Programming
+Jessica,Miller,A-,90.0,CSE 110,Intro to Programming
+Daniel,Martinez,A-,90.0,CSE 110,Intro to Programming
+Sarah,Hernandez,C,72.0,CSE 110,Intro to Programming
+Matthew,Lopez,B+,86.0,CSE 110,Intro to Programming
+Amanda,Gonzalez,A,94.0,CSE 110,Intro to Programming
+Joshua,Wilson,B,82.0,CSE 110,Intro to Programming
+Laura,Anderson,C+,78.0,CSE 110,Intro to Programming
+Andrew,Thomas,A-,89.0,CSE 110,Intro to Programming
+Sophia,Taylor,A,95.0,CSE 110,Intro to Programming
+Ethan,Moore,B-,81.0,CSE 110,Intro to Programming
+Megan,Jackson,C,70.0,CSE 110,Intro to Programming
+Jacob,White,B+,87.0,CSE 110,Intro to Programming
+Olivia,Harris,A-,90.0,CSE 110,Intro to Programming
+William,Clark,B,83.0,WDD 130,Web Fundamentals
+Victoria,Lewis,A-,91.0,WDD 130,Web Fundamentals
+Anthony,Walker,C+,79.0,WDD 130,Web Fundamentals
+Elizabeth,Hall,B-,80.0,WDD 130,Web Fundamentals
+James,Allen,A,96.0,WDD 130,Web Fundamentals
+Samantha,Young,B+,85.0,WDD 130,Web Fundamentals
+Joseph,Hernandez,B,82.0,WDD 130,Web Fundamentals
+Isabella,King,A,94.0,WDD 130,Web Fundamentals
+Ryan,Wright,B-,80.0,WDD 130,Web Fundamentals
+Grace,Lopez,B+,88.0,WDD 130,Web Fundamentals
+David,Scott,A-,90.0,WDD 130,Web Fundamentals
+Natalie,Green,C,71.0,WDD 130,Web Fundamentals
+Justin,Adams,B-,83.0,WDD 130,Web Fundamentals
+Hannah,Baker,A,95.0,WDD 130,Web Fundamentals
+Tyler,Gonzales,A+,99.0,WDD 130,Web Fundamentals
+Ashley,Mitchell,A-,92.0,WDD 130,Web Fundamentals
+Alexander,Ross,C+,77.0,WDD 130,Web Fundamentals
+Madison,Parker,B,84.0,WDD 130,Web Fundamentals
+Benjamin,Roberts,B-,82.0,WDD 130,Web Fundamentals
+Evan,Cook,C,73.0,ITM 111,Intro to Databases
+Chloe,Kim,A-,89.0,ITM 111,Intro to Databases
+Nathan,Diaz,B+,86.0,ITM 111,Intro to Databases
+Alyssa,Hughes,B,83.0,ITM 111,Intro to Databases
+Christopher,Foster,C+,78.0,ITM 111,Intro to Databases
+Emma,Richardson,A,94.0,ITM 111,Intro to Databases
+Samuel,Peterson,B,82.0,ITM 111,Intro to Databases
+Hailey,Simmons,A-,91.0,ITM 111,Intro to Databases
+Logan,Flores,C,72.0,ITM 111,Intro to Databases
+Mia,Butler,B+,87.0,ITM 111,Intro to Databases
+Brandon,Bell,A,95.0,ITM 111,Intro to Databases
+Zoe,Collins,B-,81.0,ITM 111,Intro to Databases
+Kevin,Evans,A-,92.0,ITM 111,Intro to Databases
+Savannah,Murphy,B-,80.0,ITM 111,Intro to Databases
+Austin,Morgan,B+,88.0,ITM 111,Intro to Databases
+Sofia,Cooper,A,93.0,ITM 111,Intro to Databases
+Dylan,Richardson,C+,79.0,ITM 111,Intro to Databases
+Ella,Howard,B,84.0,ITM 111,Intro to Databases
+Jackson,Ward,A-,90.0,ITM 111,Intro to Databases
+Lily,Ramirez,A,94.0,ITM 111,Intro to Databases
+Abigail,Reed,A,93.0,ITM 111,Intro to Databases
